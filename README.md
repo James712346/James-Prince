@@ -42,7 +42,9 @@ Website: https://www.stpauls.qld.edu.au/
 - `2019`
 ### Camps
 - National Computer Science School `2018`
+
 	https://ncss.edu.au/
+	
 	<!---More..-->
 - QUT STEM camp `2018`
 
