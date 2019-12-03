@@ -40,6 +40,7 @@ Website: https://www.stpauls.qld.edu.au/
 - Academic Gold for Computer Studies `2017`
 - Academic Gold for Information Processing technologies `2018, 2019`
 - `2019`
+
 ### Camps
 - National Computer Science School `2018`
 
