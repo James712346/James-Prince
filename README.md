@@ -1,11 +1,9 @@
 # James Prince
-Email: ask@jamesprince.me
-
-Website: https://JamesPrince.me
-
-GitHub: https://github.com/James712346
-
-Linkedin: https://www.linkedin.com/in/jamie-prince-b83074171/
+| **Email** | **Website** |
+|:--:|:--:|
+| ask@jamesprince.me | https://JamesPrince.me |
+| **Github** | **Linkedin** |
+| https://github.jamesprince.me/ | [https://linkedin.jamesprince.me/](http://linkedin.jamesprince.me/) |
 ## About Me
 <!--Paragraph..-->
 ### Skills
@@ -40,20 +38,23 @@ Website: https://www.stpauls.qld.edu.au/
 - Academic Gold for Computer Studies `2017`
 - Academic Gold for Information Processing technologies `2018, 2019`
 - `2019`
-
 ### Camps
 - National Computer Science School `2018`
 
 	https://ncss.edu.au/
 	
-	<!---More..-->
+	<!--More..-->
 - QUT STEM camp `2018`
 
 	https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp
 	
-	<!---More..-->
+	<!--More..-->
 - River City Labs STARTUP WEEKEND `2019`
 
 	https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/
 	
-	<!---More..-->
+	<!--More..-->
+
+
+
+
