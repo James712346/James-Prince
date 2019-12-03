@@ -23,6 +23,7 @@ Linkedin: https://www.linkedin.com/in/jamie-prince-b83074171/
 **Anthony's Primary School**
 January 2007 - December 2010
 Website: http://www.stanthonyskedron.qld.edu.au
+
 **St Paul's School**
 Janurary 2011 - November 2019
 Website: https://www.stpauls.qld.edu.au/
