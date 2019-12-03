@@ -1,7 +1,10 @@
 # James Prince
 Email: ask@jamesprince.me
+
 Website: https://JamesPrince.me
+
 GitHub: https://github.com/James712346
+
 Linkedin: https://www.linkedin.com/in/jamie-prince-b83074171/
 ## About Me
 <!--Paragraph..-->
@@ -21,11 +24,15 @@ Linkedin: https://www.linkedin.com/in/jamie-prince-b83074171/
 
 ## Education
 **Anthony's Primary School**
+
 January 2007 - December 2010
+
 Website: http://www.stanthonyskedron.qld.edu.au
 
 **St Paul's School**
+
 Janurary 2011 - November 2019
+
 Website: https://www.stpauls.qld.edu.au/
 ## Achievements
 ### Awards
@@ -38,8 +45,12 @@ Website: https://www.stpauls.qld.edu.au/
 	https://ncss.edu.au/
 	<!---More..-->
 - QUT STEM camp `2018`
+
 	https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp
+	
 	<!---More..-->
 - River City Labs STARTUP WEEKEND `2019`
+
 	https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/
+	
 	<!---More..-->
