@@ -1,10 +1,15 @@
 # James Prince
 
 | **Email** | **Website** |
+
 |:--:|:--:|
+
 | ask@jamesprince.me | https://JamesPrince.me |
+
 | **Github** | **Linkedin** |
+
 | https://github.jamesprince.me/ | [https://linkedin.jamesprince.me/](http://linkedin.jamesprince.me/) |
+
 ## About Me
 <!--Paragraph..-->
 ### Skills
