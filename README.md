@@ -10,6 +10,7 @@
 
 ## About Me
 <!--Paragraph..-->
+
 ### Skills
 - Working with the full Office Suit
 - Can use Photoshop, illustrator, InDesign and Premiere Pro
@@ -58,6 +59,8 @@ Website: https://www.stpauls.qld.edu.au/
 	https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/
 	
 	<!--More..-->
+## Experience
+- Working at my dad's business, pick orders and stacking shelfs with parts
 
 
 
