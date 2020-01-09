@@ -2,8 +2,6 @@
 
 | **Email** | **Website** |
 
-|:--:|:--:|
-
 | ask@jamesprince.me | https://JamesPrince.me |
 
 | **Github** | **Linkedin** |
