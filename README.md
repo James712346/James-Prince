@@ -24,6 +24,9 @@ High school graduate, who is passionate about data engineering and machine learn
 - Embeded Systems
 - Entrepreneur Camps and Clubs
 
+### Experience
+- Working at my dad's business, pick orders and stacking shelfs with parts
+
 ## Education
 **Anthony's Primary School**
 
@@ -58,8 +61,7 @@ Website: https://www.stpauls.qld.edu.au/
 	https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/
 	
 	<!--More..-->
-## Experience
-- Working at my dad's business, pick orders and stacking shelfs with parts
+
 
 
 
