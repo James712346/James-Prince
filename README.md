@@ -1,6 +1,6 @@
 | **Email** | **Website** |
 
-| ask@jamesprince.me | https://JamesPrince.me |
+| ask@jamesprince.me | [https://jamesprince.me/](https://JamesPrince.me) |
 
 | **Github** | **Linkedin** |
 
