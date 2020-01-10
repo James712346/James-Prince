@@ -7,7 +7,8 @@
 | https://github.jamesprince.me/(https://github.jamesprince.me/) | [https://linkedin.jamesprince.me/](http://linkedin.jamesprince.me/) |
 
 ## About Me
-<!--Paragraph..-->
+High school graduate passionate about data engineering and machine learning. Proficient in a range of modern technologies including Python, Java and Rust. I have experience in the retail industry through my family business stacking shelves and picking orders.
+
 
 ### Skills
 - Working with the full Office Suit
