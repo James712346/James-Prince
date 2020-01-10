@@ -48,17 +48,17 @@ Website: https://www.stpauls.qld.edu.au/
 ### Camps
 - National Computer Science School `2018`
 
-	https://ncss.edu.au/
+	[https://ncss.edu.au/](https://ncss.edu.au/)
 	
 	<!--More..-->
 - QUT STEM camp `2018`
 
-	https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp
+	[https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp](https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp)
 	
 	<!--More..-->
 - River City Labs STARTUP WEEKEND `2019`
 
-	https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/
+	[https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/](https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/)
 	
 	<!--More..-->
 
