@@ -1,9 +1,6 @@
 | **Email** | **Website** |
-
 | ask@jamesprince.me | [https://jamesprince.me/](https://JamesPrince.me) |
-
 | **Github** | **Linkedin** |
-
 | [https://github.jamesprince.me/](https://github.jamesprince.me/) | [https://linkedin.jamesprince.me/](http://linkedin.jamesprince.me/) |
 
 ## About Me
