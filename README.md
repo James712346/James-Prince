@@ -44,7 +44,7 @@ Website: https://www.stpauls.qld.edu.au/
 - The Archbishop's Award for the Most Improved Student ~ Middle School - Academic `2016`
 - Academic Gold for Computer Studies `2017`
 - Academic Gold for Information Processing technologies `2018, 2019`
-- `2019`
+
 ### Camps
 - National Computer Science School `2018`
 
