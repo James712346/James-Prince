@@ -1,0 +1,94 @@
+{
+  "general": {
+    "name": "James Richard Price",
+    "image": "portrait1.png",
+    "dob": 1009760400,
+    "email": "ask@jamesprince.me",
+    "headline": "",
+    "location": "Brisbane, Australia",
+    "links": [
+      {
+        "name": "github",
+        "link": "https://github.com/James712346",
+        "icon": "GitHub-Mark-32px.png"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/jamie-prince-b83074171/",
+        "icon": "LI-In-Bug.png"
+      },
+    ],
+  },
+  "aboutme": "High school graduate, who is passionate about data engineering and machine learning. Proficient in a range of modern technologies including Python, Java, and Rust. I have experience in the retail industry through my family business stacking shelves and picking orders.",
+  "education": [
+    {
+      "name": "St Anthony's Primary School",
+      "icon": "StAnthonysLogo.jpg",
+      "years": ["January 2007","December 2010"],
+      "website": "http://www.stanthonyskedron.qld.edu.au"
+    },{
+      "name": "St Paul's School",
+      "icon": "StPaulsSchool.jpeg",
+      "years": ["January 2011","November 2019"],
+      "website": "https://www.stpauls.qld.edu.au/"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Awards",
+      "icon": "",
+      "items": [
+        {
+          "name":"The Archbishop's Award for the Most Improved Student ~ Middle School - Academic",
+          "year/s": ["2016"]
+        },
+        {
+          "name":"Academic Gold for Computer Studies",
+          "year/s": ["2017"]
+        },
+        {
+          "name":"Academic Gold for Information Processing technologies",
+          "year/s": ["2018","2019"]
+        },
+        {
+          "name":"",
+          "year/s": ["2019"]
+        }
+      ]
+    },
+    {
+      "name": "Camps",
+      "icon": "",
+      "items": [
+        {
+          "name":"National Computer Science School ",
+          "link":"https://ncss.edu.au/",
+          "year/s":["2018"],
+          "more":""
+        },{
+          "name":"QUT STEM camp",
+          "link":"https://www.qut.edu.au/study/career-advisers-and-teachers/stem-for-schools/stem-camp",
+          "year/s":["2018"],
+          "more":""
+        },{
+          "name":"River City Labs STARTUP WEEKEND",
+          "link":"https://www.rivercitylabs.net/event/startup-weekend-brisbane-2/",
+          "year/s":["2019"],
+          "more":""
+        }
+      ]
+    },
+    {
+      "name": "Community Service",
+      "icon": "",
+      "items": [
+        {
+          "name":"",
+          "link":"",
+          "year/s":[],
+          "more":""
+        }
+      ]
+    },
+  ]
+}
