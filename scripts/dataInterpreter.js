@@ -1,1 +1,1 @@
-console.log=(fetch('script/data.json'))
+console.log(fetch('script/data.json'))
