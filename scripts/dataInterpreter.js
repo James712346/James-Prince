@@ -1,1 +1,1 @@
-console.log(fetch('script/data.json'))
+fetch('/scripts/data.json').then(response => response.text()).then(text => console.log(text))
