@@ -1,3 +1,3 @@
 var data; 
-fetch('/scripts/data.json').then(repsonse => response.json()).then( function(json){ data = json });
+fetch('/scripts/data.json').then(repsonse => response.json()).then( function(json){ data = json; console.log(json) });
 console.log(data);
